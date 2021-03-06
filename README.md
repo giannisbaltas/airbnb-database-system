@@ -9,6 +9,7 @@ We used PostgreSQL and primarily pgAdmin (a GUI for PSQL as an alternative to th
 From an overview, this series of assignments were an amazing practice for real database design and management. However, there were many flaws and errors that made our job challenging.
 
 PostgreSQL documentation: https://www.postgresql.org/docs/
+
 pgAdmin documentation: https://www.pgadmin.org/docs/
 
 Contributor: Nikos Lionis
